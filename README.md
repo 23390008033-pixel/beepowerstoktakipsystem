@@ -46,3 +46,4 @@ Sunucu gerekmez, veriler tamamen yerel bilgisayarda saklanır.
 ## Geliştirme
 
 Katkı yapmak için fork'layıp PR açabilirsiniz.
+# beepowerstoktakipsystem
